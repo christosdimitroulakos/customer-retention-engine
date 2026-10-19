@@ -1,0 +1,16 @@
+customer_id,tenure_months,contract_type,internet_service,tech_support,monthly_charges,churn_probability,risk_level,predicted_ltv
+CUST-001,2,Month-to-month,Fiber optic,No,89.9,0.95,High Risk,107.88
+CUST-002,34,One year,DSL,Yes,56.95,0.1,Low Risk,1230.12
+CUST-003,5,Month-to-month,Fiber optic,No,99.65,0.95,High Risk,119.58
+CUST-004,45,Two year,DSL,Yes,42.3,0.1,Low Risk,913.68
+CUST-005,8,Month-to-month,DSL,No,70.7,0.75,High Risk,424.2
+CUST-006,60,Two year,Fiber optic,Yes,105.5,0.3,Low Risk,1772.4
+CUST-007,11,Month-to-month,Fiber optic,Yes,84.45,0.8,High Risk,405.36
+CUST-008,24,One year,Fiber optic,No,94.1,0.45,Medium Risk,1242.12
+CUST-009,72,Two year,No,No,20.05,0.25,Low Risk,360.9
+CUST-010,1,Month-to-month,No,No,25.3,0.75,High Risk,151.8
+CUST-011,18,Month-to-month,DSL,Yes,53.85,0.45,Medium Risk,710.82
+CUST-012,50,One year,DSL,No,61.2,0.25,Low Risk,1101.6
+CUST-013,9,One year,Fiber optic,No,79.75,0.6,High Risk,765.6
+CUST-014,36,Two year,DSL,No,48.6,0.25,Low Risk,874.8
+CUST-015,3,Month-to-month,Fiber optic,No,110.35,0.95,High Risk,132.42

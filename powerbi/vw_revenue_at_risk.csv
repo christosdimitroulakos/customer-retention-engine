@@ -1,0 +1,3 @@
+contract_type,high_risk_customers,monthly_revenue_at_risk,expected_monthly_loss,avg_churn_probability
+Month-to-month,6,480.35,424.47,0.8583
+One year,1,79.75,47.85,0.6

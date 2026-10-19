@@ -1,0 +1,8 @@
+priority_rank,customer_id,contract_type,internet_service,tech_support,tenure_months,monthly_charges,churn_probability,expected_monthly_loss,predicted_ltv
+1,CUST-015,Month-to-month,Fiber optic,No,3,110.35,0.95,104.83,132.42
+2,CUST-003,Month-to-month,Fiber optic,No,5,99.65,0.95,94.67,119.58
+3,CUST-001,Month-to-month,Fiber optic,No,2,89.9,0.95,85.41,107.88
+4,CUST-007,Month-to-month,Fiber optic,Yes,11,84.45,0.8,67.56,405.36
+5,CUST-005,Month-to-month,DSL,No,8,70.7,0.75,53.03,424.2
+6,CUST-013,One year,Fiber optic,No,9,79.75,0.6,47.85,765.6
+7,CUST-010,Month-to-month,No,No,1,25.3,0.75,18.98,151.8
